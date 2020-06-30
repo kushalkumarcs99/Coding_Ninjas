@@ -2,4 +2,4 @@
 
 Competitive Programming Course
 
-![](Img/Cerificate_Screenshot.png)
+![](Img/Certificate_Screenshot.png)
